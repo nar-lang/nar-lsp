@@ -1,1 +1,3 @@
+github.com/nar-lang/nar-common v1.0.0/go.mod h1:PAhYM5zxJK/0SthuiR9xQs6h/PTLsEl+Tq8SMNicDLE=
+github.com/nar-lang/nar-compiler v1.0.0/go.mod h1:g/+YN2eE/Y4XSkO/pgVFL1pXRWw13l/o6JbQvudHKb0=
 golang.org/x/text v0.14.0/go.mod h1:18ZOQIKpY8NJVqYksKHtTdi31H5itFRjB5/qKTNYzSU=
